@@ -1,0 +1,18 @@
+{
+  "name": "mp3stream",
+  "version": "0.0.0",
+  "description": "streams an mp3 file in Node 0.10 way",
+  "main": "Mp3Stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node",
+    "mp3",
+    "stream"
+  ],
+  "author": "arturomtm",
+  "license": "BSD",
+  "gitHead": "256f3c211cc68baf524cb6c2a2d85254e93d8de1"
+}
